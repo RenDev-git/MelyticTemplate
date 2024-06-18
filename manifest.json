@@ -1,0 +1,22 @@
+{
+    "info.product": {
+        "version": "1.3",
+        "hash": "6dbf09218d2ce20fd504394d293a0894558899dd6fed6f217e8a1701f008b10e"
+    },
+    "manifest.json": {
+        "version": "1.3",
+        "hash": "5565959db2c68898bce715c1be1bdbd806bc49e708da2054103711d61079fe92"
+    },
+    "program.exe": {
+        "version": "1.3",
+        "hash": "532391bed7037560d15d7416b5b2fc9f5d0dbc9d8b702f3d31b11510356db808"
+    },
+    "data\\models.obj": {
+        "version": "1.3",
+        "hash": "31eb42dd9cf940c5a0a2e78ec50b6b23816b44e62a0de5f43e3b5ffc5fc80260"
+    },
+    "data\\sounds.mp3": {
+        "version": "1.3",
+        "hash": "1b10a8322ce4db679d5fab8539371e8cae2ef19d918c1f37daa86047f8074d3f"
+    }
+}
